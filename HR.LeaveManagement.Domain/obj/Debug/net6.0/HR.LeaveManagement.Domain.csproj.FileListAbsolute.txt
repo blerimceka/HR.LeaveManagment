@@ -1,0 +1,12 @@
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.deps.json
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.dll
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\refint\HR.LeaveManagement.Domain.dll
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+D:\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll
